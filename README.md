@@ -12,9 +12,15 @@ Course of the npm with Platzi.
 - [npmjs](https://www.npmjs.com/)
 # NODEjs
 - [Nodejs](https://nodejs.org/en/)
+
+# NPM Dependencias
+- [momentJs](https://momentjs.com/)
+
+# NPM Terminal
+![npm_terminal-platzi](https://static.platzi.com/media/user_upload/JS%20%E2%80%93%2031-dd8defe4-29bf-4bb9-8260-07fb80d965bc-81e296f1-6370-44e0-8e6d-fe1946826aba.jpg)
 # MIT LICENSE
-- [](https://choosealicense.com/)
-- [](https://es.wikipedia.org/wiki/Licencia_de_software)
+- [Chosealicense](https://choosealicense.com/)
+- [Licensia_de_software](https://es.wikipedia.org/wiki/Licencia_de_software)
 
 MIT License
 
