@@ -15,8 +15,9 @@ Course of the npm with Platzi.
 
 # NPM Dependencias
 - [momentJs](https://momentjs.com/)
+- [date-fns](https://date-fns.org/)
 
-# NPM Terminal
+# NPM Terminal Course Platzi
 ![npm_terminal-platzi](https://static.platzi.com/media/user_upload/JS%20%E2%80%93%2031-dd8defe4-29bf-4bb9-8260-07fb80d965bc-81e296f1-6370-44e0-8e6d-fe1946826aba.jpg)
 # MIT LICENSE
 - [Chosealicense](https://choosealicense.com/)
