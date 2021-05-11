@@ -1,0 +1,23 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "course_npm",
+  "main": "src/js/index.js",
+  "scripts": {
+    "one": "node src/js/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Christiano0407/NPM_Course.git"
+  },
+  "keywords": [
+    "npm",
+    "javascript"
+  ],
+  "author": "Chris04",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Christiano0407/NPM_Course/issues"
+  },
+  "homepage": "https://github.com/Christiano0407/NPM_Course#readme"
+}
