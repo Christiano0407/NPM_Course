@@ -16,7 +16,11 @@ Course of the npm with Platzi.
 # NPM Dependencias
 - [momentJs](https://momentjs.com/)
 - [date-fns](https://date-fns.org/)
+- [nodemon](https://nodemon.io/)
 
+# npm tIPS
+- [npm](https://docs.npmjs.com/resolving-eacces-permissions-errors-when-installing-packages-globally)
+- [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 # NPM Terminal Course Platzi
 ![npm_terminal-platzi](https://static.platzi.com/media/user_upload/JS%20%E2%80%93%2031-dd8defe4-29bf-4bb9-8260-07fb80d965bc-81e296f1-6370-44e0-8e6d-fe1946826aba.jpg)
 # MIT LICENSE
