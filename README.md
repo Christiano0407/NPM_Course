@@ -26,10 +26,14 @@ Course of the npm with Platzi.
 ![npm_terminal-platzi](https://static.platzi.com/media/user_upload/JS%20%E2%80%93%2031-dd8defe4-29bf-4bb9-8260-07fb80d965bc-81e296f1-6370-44e0-8e6d-fe1946826aba.jpg)
 
 # Npm Publicar un paquete
-- [](https://docs.npmjs.com/packages-and-modules)
+- [npm paquete_1](https://docs.npmjs.com/packages-and-modules)
+- [npm-paquete](https://www.npmjs.com/package/funny-commit)
 
 # Npm Seguridad
 - [snyk](https://snyk.io/)
+
+# Testing
+- [jest](https://jestjs.io/)
 # MIT LICENSE
 - [Chosealicense](https://choosealicense.com/)
 - [Licensia_de_software](https://es.wikipedia.org/wiki/Licencia_de_software)
